@@ -1,0 +1,7 @@
+{
+    "Fcgi": false,
+    "Listen": ":3001",
+    "Match" : {
+    	"go.iondynamics.net" : "https://github.com/ionDynamics"
+    }
+}
